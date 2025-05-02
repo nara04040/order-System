@@ -1,0 +1,14 @@
+{
+  "name": "macdonald-order-system",
+  "version": "1.0.0",
+  "description": "맥도날드 주문 시스템을 함수형 프로그래밍으로 구현",
+  "main": "src/main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["functional-programming", "order-system"],
+  "author": "",
+  "license": "MIT"
+}
